@@ -1,3 +1,11 @@
+```
+         ___  huh? whaa- aa- tt???
+       _/   |
+      |_____| {@)
+        --- == _/\ |
+      [_____]   __)|
+ejm98  |   |   //| |
+```
 - 🌾 Mimi (she/they) @enderesting
 - 🍙 Aspiring game dev/artist
 - 🌱 Currently doing an Informatics Engineering Major
