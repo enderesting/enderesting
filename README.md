@@ -1,9 +1,9 @@
 ```
          ___  huh? whaa- aa- tt???
-       _/   |
+       _/   |  🔺*
       |_____| {@)
-        --- == _/\ |
-      [_____]   __)|
+        --- == _/\ |    <-- struggling with Advent of Code
+      [_____]   __)| 
 ejm98  |   |   //| |
 ```
 - 🌾 Mimi (she/they) @enderesting
