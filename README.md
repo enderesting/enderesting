@@ -1,8 +1,8 @@
 ```
          ___  huh? whaa- aa- tt???
-       _/   |  🔺*
+       _/   | 
       |_____| {@)
-        --- == _/\ |    <-- struggling with Advent of Code
+        --- == _/\ |    <-- learning basic OOP design
       [_____]   __)| 
 ejm98  |   |   //| |
 ```
