@@ -2,7 +2,7 @@
          ___  huh? whaa- aa- tt???
        _/   | 
       |_____| {@)
-        --- == _/\ |    <-- learning basic OOP design
+        --- == _/\ |    <-- getting destroyed in C
       [_____]   __)| 
 ejm98  |   |   //| |
 ```
