@@ -1,8 +1,8 @@
 ```
          ___  huh? whaa- aa- tt???
-       _/   | 
+       _/   |  🔺*
       |_____| {@)
-        --- == _/\ |    <-- getting destroyed in C
+        --- == _/\ |    <-- getting destroyed in Advent of Code
       [_____]   __)| 
 ejm98  |   |   //| |
 ```
