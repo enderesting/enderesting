@@ -8,7 +8,7 @@ ejm98  |   |   //| |
 ```
 - 🌾 Mimi (she/they) @enderesting
 - 🍙 Aspiring game dev/artist
-- 🌱 Currently doing an Informatics Engineering Masters at IST
+- 🌱 Currently doing an Informatics Engineering Masters at IST with a Minor in Space Science
 - 🌐 [youtube](https://www.youtube.com/channel/UCW_tTycD3_Uhe22CBzBbEYw) 💛 [itch.io](https://enderesting.itch.io/) 💛 [instagram](https://www.instagram.com/enderesting/)
 - 📫 email: enderesting.em@gmail.com
 
