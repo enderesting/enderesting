@@ -1,8 +1,8 @@
 ```
          ___  huh? whaa- aa- tt???
-       _/   |  🔺*
+       _/   |  
       |_____| {@)
-        --- == _/\ |    <-- getting destroyed in Advent of Code
+        --- == _/\ |    <-- average day at the computer factory
       [_____]   __)| 
 ejm98  |   |   //| |
 ```
